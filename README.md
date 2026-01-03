@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=PHP+Focused+Web+Developer;ISMAGI+Rabat+Student;Building+Future+Web+Apps" />
+</p>
+
 # 👋 Hi, I'm Mohamed Riadh Mennane
 
 💻 **PHP-Focused Web Developer** | 🎓 Student at **ISMAGI Rabat**  
@@ -24,6 +28,12 @@ My goal is to grow into a **professional full-stack developer** with deep backen
 ---
 
 ## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Symfony-0d1117?style=for-the-badge&logo=symfony&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+</p>
 
 ### Backend
 - **PHP** (Advanced)
