@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Riadh Mennane
 
-<!--
-**mennaneriad/mennaneriad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **PHP-Focused Web Developer** | 🎓 Student at **ISMAGI Rabat**  
+🚀 Building modern, scalable, and future-ready web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🎓 About Me
+
+I'm a passionate **web development student at ISMAGI Rabat**, with a strong focus on **PHP backend development** and modern web technologies.
+
+I enjoy designing clean architectures, writing maintainable code, and building real-world applications that solve practical problems.  
+My goal is to grow into a **professional full-stack developer** with deep backend expertise.
+
+---
+
+## 🧠 Main Focus
+
+🔹 **PHP Development** (Core language)  
+🔹 Backend logic & application architecture  
+🔹 Web applications for real use cases  
+🔹 Continuous learning & best practices
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- **PHP** (Advanced)
+- Symfony (Learning & Practicing)
+- RESTful APIs
+
+### Database & Cloud
+- MySQL
+
+### Tools
+- Git & GitHub
+- VS Code
+- Windows
+- Agile & clean code principles
+
+
+## 🌍 Online Presence
+
+- 🌐 **Portfolio:** https://mennaneriad.web.app  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mohamed-riad-mennane  
+
+
+
+⭐ *Thanks for visiting my GitHub profile — more projects coming soon!*
