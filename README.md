@@ -1,5 +1,5 @@
 # 👨‍💻 **Mohamed Riadh Mennane**  
-### PHP-Centric Developer | Architecture Enthusiast | ISMAGI Rabat  
+### PHP Developer | Architecture Enthusiast | ISMAGI Rabat  
 
 <div align="center">
 
