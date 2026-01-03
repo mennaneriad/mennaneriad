@@ -1,4 +1,4 @@
-# 👨‍💻 **Mohamed Riadh Mennane**  
+# 👨‍💻 **Mohamed Riad Mennane**  
 ### PHP Developer | Architecture Enthusiast | ISMAGI Rabat  
 
 <div align="center">
@@ -7,7 +7,7 @@
 <?php
 
 class Developer {
-    public string $name = 'Mohamed Riadh Mennane';
+    public string $name = 'Mohamed Riad Mennane';
     public string $focus = 'PHP Backend Development';
     public string $education = 'ISMAGI Rabat';
     public array $passions = [
